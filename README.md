@@ -1,8 +1,9 @@
 # Nextjs-Repository
 for create app :
+<br>
 npx create-next-app@latest 
 if you want to create app in new folder
-
+<br>
 if you want app for new folder add  a single "." at the end of command
 for running you app:
 command : npm  run dev
